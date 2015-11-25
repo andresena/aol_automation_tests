@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42552" started-at="2015-11-22T17:59:29Z" finished-at="2015-11-22T18:00:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42552" started-at="2015-11-22T17:59:29Z" finished-at="2015-11-22T18:00:12Z">
+      <class name="com.aol.AolTestCases.AOLTestCases">
+        <test-method status="PASS" signature="testBeforeSuite()[pri:0, instance:com.aol.AolTestCases.AOLTestCases@b684286]" name="testBeforeSuite" is-config="true" duration-ms="6006" started-at="2015-11-22T15:59:23Z" finished-at="2015-11-22T15:59:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBeforeSuite -->
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:com.aol.AolTestCases.AOLTestCases@b684286]" name="BeforeTest" is-config="true" duration-ms="47" started-at="2015-11-22T15:59:29Z" finished-at="2015-11-22T15:59:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:com.aol.AolTestCases.AOLTestCases@b684286]" name="testcase1" duration-ms="13620" started-at="2015-11-22T15:59:29Z" finished-at="2015-11-22T15:59:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:com.aol.AolTestCases.AOLTestCases@b684286]" name="BeforeTest" is-config="true" duration-ms="78" started-at="2015-11-22T15:59:43Z" finished-at="2015-11-22T15:59:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:com.aol.AolTestCases.AOLTestCases@b684286]" name="testcase2" duration-ms="28788" started-at="2015-11-22T15:59:43Z" finished-at="2015-11-22T16:00:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="testAfterSuite()[pri:0, instance:com.aol.AolTestCases.AOLTestCases@b684286]" name="testAfterSuite" is-config="true" duration-ms="1186" started-at="2015-11-22T16:00:12Z" finished-at="2015-11-22T16:00:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAfterSuite -->
+      </class> <!-- com.aol.AolTestCases.AOLTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
